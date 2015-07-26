@@ -263,7 +263,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ConfirmLabel"
 		"font"			"NeouB14"
-		"labelText"		"#ToolDecodeConfirm"
+		"labelText"		"%confirm_text%"
 		"textAlignment"	"center"
 		"xpos"			"c-200"
 		"ypos"			"c-20"
@@ -276,7 +276,24 @@
 		"enabled"		"1"
 		"fgcolor_override" "200 80 60 255"
 	}
-
+	"OptionalAppendLabel"
+	{
+		"ControlName"        "CExLabel"
+		"fieldName"                "OptionalAppendLabel"
+		"font"                        "HudFontSmall"
+		"labelText"                "%optional_append%"
+		"textAlignment"        "center"
+		"xpos"                        "20"
+		"ypos"                        "120"
+		"zpos"                        "0"
+		"wide"                        "360"
+		"tall"                        "60"
+		"autoResize"        "1"
+		"pinCorner"                "0"
+		"visible"                "1"
+		"enabled"                "1"
+		"fgcolor_override" "200 80 60 255"
+	}
 	"CancelButton"
 	{
 		"ControlName"	"CExButton"

@@ -10,15 +10,15 @@
 		"pinCorner"		"0"
 		"enabled"		"1"
 		
-		"team1_player_base_offset_x"		"0"
+		"team1_player_base_offset_x"		"426"
 		"team1_player_base_y"				"200"
 		"team1_player_delta_x"				"0"
-		"team1_player_delta_y"				"-18"
+		"team1_player_delta_y"				"-20"
 		
-		"team2_player_base_offset_x"		"0"
+		"team2_player_base_offset_x"		"426"
 		"team2_player_base_y"				"241"
 		"team2_player_delta_x"				"0"
-		"team2_player_delta_y"				"18"
+		"team2_player_delta_y"				"20"
 		
 		"playerpanels_kv"
 		{
@@ -471,8 +471,8 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
-		"xpos"			"r1270"
-		"ypos"			"300"
+		"xpos"			"0"
+		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"0"
 		"tall"			"0"
@@ -522,5 +522,18 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 		}
+	}	
+	"spectator_extras"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"spectator_extras"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f0"
+		"tall"			"480"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 	}	
 }

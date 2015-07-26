@@ -91,7 +91,7 @@
 	}
 	"TargetStatusHealthValue"
 	{
-		"ControlName"	"Label"
+		"ControlName"	"CExLabel"
 		"fieldName"		"TargetStatusHealthValue"
 		"xpos"			"0"
 		"ypos"			"1"

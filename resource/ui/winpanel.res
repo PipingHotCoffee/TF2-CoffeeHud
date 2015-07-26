@@ -192,10 +192,10 @@
 		"font"			"NeouB20"
 		"fgcolor"       "black"
 		"xpos"			"0"
-		"ypos"			"53"
+		"ypos"			"34"
 		"zpos"			"12"
 		"wide"			"292"
-		"tall"			"24"
+		"tall"			"20"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -231,7 +231,7 @@
 		"fieldName"		"AdvancingTeamLabel"
 		"font"			"NeouB20"
 		"xpos"			"0"
-		"ypos"			"53"
+		"ypos"			"34"
 		"zpos"			"1"
 		"wide"			"292"
 		"tall"			"20"
@@ -374,7 +374,21 @@
 		"fillcolor"		"250 234 201 255"
 		"PaintBackgroundType"	"0"
 	}
-	"Player1Avatar"		[$WIN32]
+	"Player1Medal"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"Player1Medal"
+		"xpos"			"17"
+		"ypos"			"136"
+		"zpos"			"3"
+		"wide"			"12"
+		"tall"			"12"
+		"visible"		"0"
+		"enabled"		"1"
+		"image"			""
+		"scaleImage"		"1"	
+	}
+	"Player1Avatar"		
 	{
 		"ControlName"		"CAvatarImagePanel"
 		"fieldName"		"Player1Avatar"
@@ -445,7 +459,21 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
-	"Player2Avatar"		[$WIN32]
+	"Player2Medal"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"Player1Medal"
+		"xpos"			"17"
+		"ypos"			"136"
+		"zpos"			"3"
+		"wide"			"12"
+		"tall"			"12"
+		"visible"		"0"
+		"enabled"		"1"
+		"image"			""
+		"scaleImage"		"1"	
+	}
+	"Player2Avatar"		
 	{
 		"ControlName"		"CAvatarImagePanel"
 		"fieldName"		"Player2Avatar"
@@ -516,7 +544,21 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 	}
-	"Player3Avatar"		[$WIN32]
+	"Player1Medal"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"Player1Medal"
+		"xpos"			"17"
+		"ypos"			"136"
+		"zpos"			"3"
+		"wide"			"12"
+		"tall"			"12"
+		"visible"		"0"
+		"enabled"		"1"
+		"image"			""
+		"scaleImage"		"1"	
+	}
+	"Player3Avatar"		
 	{
 		"ControlName"		"CAvatarImagePanel"
 		"fieldName"		"Player3Avatar"
@@ -682,7 +724,21 @@
 		"fillcolor"		"250 234 201 255"
 		"PaintBackgroundType"	"0"
 	}
-	"KillStreakPlayer1Avatar"		[$WIN32]
+	"KillStreakPlayer1Medal"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"KillStreakPlayer1Medal"
+		"xpos"			"17"
+		"ypos"			"217"
+		"zpos"			"3"
+		"wide"			"12"
+		"tall"			"12"
+		"visible"		"0"
+		"enabled"		"0"
+		"image"			""
+		"scaleImage"		"1"	
+	}
+	"KillStreakPlayer1Avatar"		
 	{
 		"ControlName"		"CAvatarImagePanel"
 		"fieldName"		"KillStreakPlayer1Avatar"

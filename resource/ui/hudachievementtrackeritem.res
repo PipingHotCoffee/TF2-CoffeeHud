@@ -20,7 +20,7 @@
 		"labelText"					"d"
 		"textAlignment"				"center"	
 				
-		"fgcolor"					"eBlue"
+		"fgcolor"					"0 155 255 255"
 	}
  
 //crosshair end

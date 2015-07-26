@@ -44,8 +44,16 @@
 	"ConsoleButton"
 	{
 		"label" "CONSOLE"
-		"command" "engine console"
+		"command" "engine showconsole"
 	} 
+	"PlayCompetitiveButton"
+	{
+		"label" "#MMenu_PlayComp" 
+        "command" "ladder_ui_show"
+        "subimage" "glyph_practice"
+        "OnlyAtMenu" "1"
+        "OnlyWhenCompetitiveEnabled" "1"
+    }
 	///////////////////
 	
 	"Map_Button_01"
@@ -147,7 +155,7 @@
 	}
 	"Map_Button_18"
 	{
-		"label"		"jump_competetive"
+		"label"		"jump_competitive"
 		"command"		"engine map jump_competitive_b2"
 	}
 	"Map_Button_19"
@@ -258,8 +266,8 @@
 	}
 	"Map_Button_39"
 	{
-		"label"		"tr_rocket_shooting"
-		"command"		"engine map tr_rocket_shooting2"
+		"label"		"tr_rocketville"
+		"command"		"engine map tr_rocketville"
 	}
 	"Map_Button_40"
 	{
@@ -340,5 +348,12 @@
 		"OnlyAtMenu" "0"
 		"subimage" "icon_whistle"
 		"tooltip" "#MMenu_RequestCoach"
+	}
+	"QuestLogButton"
+	{
+		"label"		""
+		"command"	"questlog"
+		"image"		"button_quests"
+		
 	}
 }
