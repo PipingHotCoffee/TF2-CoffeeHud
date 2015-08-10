@@ -108,7 +108,9 @@
 		"fieldName"		"classmodelpanel"
 		
 		"xpos"			"0"	[$WIN32]
+		"xpos_minmode" 			"9999"
 		"ypos"			"r120"	[$WIN32]
+		"ypos_minmode" 			"9999"
 		"zpos"			"9999"		
 		"wide"			"70"
 		"tall"			"135"

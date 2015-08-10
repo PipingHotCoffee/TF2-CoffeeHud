@@ -8,12 +8,6 @@ Scheme
 	Colors
 	{
 		// rayshud	
-		"White"				"255 255 255 255"
-		"OffWhite"			"200 200 200 255"
-		"DullWhite"			"142 142 142 255"
-		"TransparentBlack"		"0 0 0 128"
-		"Black"				"10 10 10 255" 
-		"Blank"				"0 0 0 0"
 		"RaysPrimaryLight"		"0 255 255 255"
 		"RaysPrimaryDark"		"65 255 255 255"
 		"RaysBlack"				"43 43 43 255"
@@ -23,6 +17,18 @@ Scheme
 		"BasWhite"				"220 220 220 255"
 		"BasBlue"				"0 200 225 200"
 		"BasDark"				"34 31 30 255"
+		
+		// Coffee's colors 
+		"White"					"255 255 255 255"
+		"OffWhite"				"230 230 230 255"
+		"DullWhite"				"200 200 200 200"
+		"TransparentBlack"		"0 0 0 150"
+		"LessBlack"				"50 50 50 200"
+		"Black"					"10 10 10 255" 
+		"Blank"					"0 0 0 0"
+		"CafeBluPrim"			"51 153 255 255"
+		"CafeBluSub"			"20 73 85 255"
+		"CafeButtonHover"		"100 100 100 100"
 
 		// TF2
 	    "TFDarkBrown"               "60 56 53 255"
