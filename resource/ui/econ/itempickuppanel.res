@@ -34,13 +34,13 @@
 			"model_xpos"	"0"
 			"model_center_y"	"1"
 			"model_tall"	"160"
-			"model_wide"	"240"
+			"model_wide"    "240"
 			
 			"text_forcesize"	"1"
 			"text_xpos"		"250"
 			"text_wide"		"225"
 			"text_center"	"1"
-			"is_mouseover"                "1"
+			"is_mouseover"		"1"
 			"hide_collection_panel" "1"
 			
 			"itemmodelpanel"
@@ -293,11 +293,11 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"DiscardButton"
-		"xpos"			"c210"
+		"xpos"			"c224"
 		"ypos"			"155"
 		"zpos"			"10"
-		"wide"			"30"
-		"tall"			"30"
+		"wide"			"20"
+		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -333,7 +333,7 @@
 			"image"			"icon_trash_on"
 			"scaleImage"	"1"
 			"paintbackgroundtype" "0"
-			"proportionaltoparent"        "1"
+			"proportionaltoparent"	"1"
 		}				
 	}		
 	"DiscardButtonTooltip"

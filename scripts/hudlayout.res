@@ -728,12 +728,12 @@
 
 		"MaxDeathNotices" "8"
 		"IconScale"	  "0.10"
-		"LineHeight"	  "10"
+		"LineHeight"	  "13"
 		"LineSpacing"	  "1"
 		"CornerRadius"	  "1"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"Gotham-Medium8"
+		"TextFont"		"Gotham-Medium10"
 		
 		"TeamBlue"		"eBlue" 	// HUDBlueTeamSolid
 		"TeamRed"		"eRed" 	// HUDRedTeamSolid
@@ -1441,8 +1441,8 @@
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"1"
-		"enabled"		"1"	
+		"visible"		"0"
+		"enabled"		"0"	
 	}
 	
 	HudTrainingInfoMsg
@@ -1653,8 +1653,8 @@
 		"zpos"	"-100"
 		"wide"	"f0"
 		"tall"	"480"
-		"visible"	"1"
-		"enabled"	"1"
+		"visible"	"0"
+		"enabled"	"0"
 		"image"	"replay/thumbnails/REFRACTnormal_transparent"
 		"scaleImage"	"1"
 	}

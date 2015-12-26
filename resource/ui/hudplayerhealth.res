@@ -405,6 +405,22 @@
                 "image"                 "../HUD/defense_buff_bullet_blue"
                 "fgcolor"               "TanDark"
         }
+		"PlayerStatus_SpyMarked"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"PlayerStatus_SpyMarked"
+			"xpos"			"115"
+			"xpos_minmode"	"70"
+			"ypos"			"0"
+			"zpos"			"7"
+			"wide"			"31"
+			"tall"			"31"
+			"visible"		"0"
+			"enabled"		"1"
+			"scaleImage"	"1"	
+			"image"			""
+			"fgcolor"		"TanDark"
+		}
         "PlayerStatus_Parachute"
         {
                 "ControlName"   "ImagePanel"
@@ -509,10 +525,10 @@
 		"image"			"../Effects/powerup_vampire_hud"
 		"fgcolor"		"eBlueT"
 	}
-	"PlayerStatus_RuneWarlock"
+	"PlayerStatus_RuneReflect"
 	{
 		"ControlName"	"ImagePanel"
-		"fieldName"		"PlayerStatus_RuneWarlock"
+		"fieldName"		"PlayerStatus_RuneReflect"
 		"xpos"			"85"
 		"ypos"			"12"
 		"zpos"			"7"
@@ -521,7 +537,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
-		"image"			"../Effects/powerup_warlock_hud"
+		"image"			"../Effects/powerup_reflect_hud"
 		"fgcolor"		"eBlueT"
 	}
 	"PlayerStatus_RunePrecision"
@@ -553,5 +569,53 @@
 		"scaleImage"	"1"	
 		"image"			"../Effects/powerup_agility_hud"
 		"fgcolor"		"eBlueT"
+	}
+	"PlayerStatus_RuneKing"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatus_RuneKing"
+		"xpos"			"85"
+		"xpos_minmode"	"70"
+		"ypos"			"0"
+		"zpos"			"7"
+		"wide"			"31"
+		"tall"			"31"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			"../Effects/powerup_king_hud"
+		"fgcolor"		"TanDark"
+	}
+	"PlayerStatus_RunePlague"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatus_RunePlague"
+		"xpos"			"85"
+		"xpos_minmode"	"70"
+		"ypos"			"0"
+		"zpos"			"7"
+		"wide"			"31"
+		"tall"			"31"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			"../Effects/powerup_plague_hud"
+		"fgcolor"		"TanDark"
+	}
+	"PlayerStatus_RuneSupernova"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatus_RuneSupernova"
+		"xpos"			"85"
+		"xpos_minmode"	"70"
+		"ypos"			"0"
+		"zpos"			"7"
+		"wide"			"31"
+		"tall"			"31"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"image"			"../Effects/powerup_supernova_hud"
+		"fgcolor"		"TanDark"
 	}
 }

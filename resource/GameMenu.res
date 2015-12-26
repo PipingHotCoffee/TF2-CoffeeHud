@@ -100,8 +100,8 @@
 	
 	"Map_Button_08"
 	{
-		"label"		"cp_logjam"
-		"command"		"engine map cp_logjam_b20pre2"
+		"label"		"Connect Team"
+		"command"		"engine connect nofunallowed.game.nfoservers.com:27015;password cp_adminabuse"
 	}
 	
 	"Map_Button_09"
