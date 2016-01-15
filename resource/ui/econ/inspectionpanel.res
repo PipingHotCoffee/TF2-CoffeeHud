@@ -48,6 +48,8 @@
 		"use_pedestal"			"1"
 		"use_particle"			"1"
 		"fov"					"75"
+		
+		"name_only"	"1"
 
 		"model"
 		{

@@ -8,6 +8,8 @@
 		"is_mouseover"			"1"
 		"text_xpos_collection"	"0"
 		"text_ypos"			"15"
+		"text_xpos"			"15"
+		"text_wide"			"270"
 		"text_forcesize" "0"
 		//"model_xpos_collection"	"77"
 		//"model_ypos_collection"	"20"
@@ -268,6 +270,21 @@
 			"scaleImage"	"1"
 		}
 		
+		"is_loaner_icon"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"is_loaner_icon"
+			"xpos"			"4"
+			"ypos"			"4"
+			"zpos"			"2"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"wide"			"16"
+			"tall"			"16"
+			"visible"		"0"
+			"enabled"		"1"
+			"scaleImage"	"1"
+		}
 
 		"contained_item_panel"
 		{

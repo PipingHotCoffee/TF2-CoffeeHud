@@ -95,7 +95,7 @@
 	
 	"NumberLabel"
 	{	
-		"ControlName"	"CExLabel"
+		"ControlName"	"CSCHintIcon"
 		"fieldName"		"NumberLabel"
 		"font"			"abeat10"
 		"fgcolor"		"255 255 255 255"
@@ -112,5 +112,6 @@
 		"textAlignment"	"center"
 		"dulltext"		"1"
 		"brighttext"	"0"
+		"actionSet"		"InGameHUDControls"
 	}
 }

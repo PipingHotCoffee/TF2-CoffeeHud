@@ -3166,7 +3166,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"MutePlayersButton"
 		"xpos"			"1"
-		"ypos"			"c-94"
+		"ypos"			"c-134"
 		"zpos"			"10"
 		"wide"			"20"
 		"tall"			"20"

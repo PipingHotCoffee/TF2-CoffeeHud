@@ -36,6 +36,7 @@
 			{
 				"visible"		"1"
 				"image"		"store/store_australian_christmas_callout_sale"
+				"ypos"		"15"
 			}
 		}
 	}
