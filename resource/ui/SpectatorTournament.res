@@ -10,15 +10,15 @@
 		"pinCorner"		"0"
 		"enabled"		"1"
 		
-		"team1_player_base_offset_x"		"-420"
+		"team1_player_base_offset_x"		"0"
 		"team1_player_base_y"				"200"
 		"team1_player_delta_x"				"0"
-		"team1_player_delta_y"				"-20"
+		"team1_player_delta_y"				"-18"
 		
-		"team2_player_base_offset_x"		"-420"
+		"team2_player_base_offset_x"		"0"
 		"team2_player_base_y"				"241"
 		"team2_player_delta_x"				"0"
-		"team2_player_delta_y"				"20"
+		"team2_player_delta_y"				"18"
 		
 		"playerpanels_kv"
 		{
@@ -473,33 +473,34 @@
 		"fieldName"		"itempanel"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"1"
-		"wide"			"0"
-		"tall"			"0"
+		"zpos"			"10"
+		"wide"			"190"
+		"tall"			"100"
 		"visible"		"0"
 		"bgcolor_override"		"32 32 32 200"
 		"PaintBackgroundType"	"0"
 		"paintbackground"	"1"
 		"paintborder"		"0"
 		
-		"model_xpos"		"10"
-		"model_center_y"	"1"
+		"model_ypos"		"10"
+		"model_center_x"	"1"
 		"model_wide"		"90"
 		"model_tall"		"55"
 		
-		"text_xpos"		"90"
+		"text_xpos"		"10"
+		"text_ypos"		"10"
 		"text_wide"		"170"
 		"text_center"	"1"
 		
-		"max_text_height"	"90"
-		"padding_height"	"40"
+		"max_text_height"	"100"
+		"padding_height"	"10"
 		"resize_to_text"	"1"
 		"text_forcesize"	"2"
 		
 		"itemmodelpanel"
 		{
 			"fieldName"		"itemmodelpanel"
-			"use_item_rendertarget" "1"
+			"use_item_rendertarget" "0"
 			"useparentbg"		"1"
 		}
 		
